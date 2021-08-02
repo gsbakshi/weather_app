@@ -2,6 +2,8 @@
 
 Build a command line tool that can get weather stats using the free API by MetaWeather.com
 
+> Practicing asynchronous task with dart
+
 ### Usage
 
 ```
